@@ -1,0 +1,22 @@
+{
+  "wheel_id": 820,
+  "structure": "umbrella",
+  "slug": "poolbuildergoldcoast-101",
+  "project": "concrete-pool-builder-gold-coast-suburb-guide-ea7dc5d332f423ed4",
+  "parent_t1_ref": "poolbuildergoldcoast-150",
+  "node_role": "feeder",
+  "money_target": "poolbuildergoldcoast.net.au",
+  "primary_kw": "concrete pool builder gold coast suburb guide",
+  "intended_url": "https://aumedia.neocities.org/concrete-pool-builder-gold-coast-suburb-guide-ea7dc5d332f423ed4/",
+  "tier": "T2",
+  "writeback_nonce": "d9ec7f45acc9d046",
+  "links": [
+    {
+      "target_url": "http://concrete-pool-builder-gold-coast-500d5aaa077eabe553c842ee66a089.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "http://concrete-pool-builder-gold-coast-500d5aaa077eabe553c842ee66a089.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
